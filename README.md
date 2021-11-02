@@ -11,7 +11,7 @@ As a first step the VP planned to know the useful insights out of the employee d
            • Give a final predictionmodel to forecast
 ## Actions to be Performed:
 • Set the Directory and load the dataset into R, verify that the data is loaded correctly
-• For finding the insights out of our data several techniques can be used
+• For finding the insights out of our data several techniques can be used:
      o Find the correlation values of the attributes of our data
      o Visualize the characteristics of the whole data and only the people who left, use plots
        and histograms
@@ -19,20 +19,21 @@ As a first step the VP planned to know the useful insights out of the employee d
      o Analyse the department wise turnouts and find out the percentage of employees
        leaving from each department
 • Build a classification model to forecast what are the attributes of people who leave the
-company
+company.
      o Build models using Decision Tree, Random Forest, Naïve Bayes and SVM
        techniques and find out the most accurate one.
 ## Data To be used:
 The dataset being used is HR_data. It consists of dimensions like:
-• Employee satisfaction level
-• Last evaluation
-• Number of projects
-• Average monthly hours
-• Time spent at the company
-• Whether they have had a work accident
-• Whether they have had a promotion in the last 5 years
-• Department
-• Salary
-• Whether the employee has left
+ • Employee satisfaction level
+ • Last evaluation
+ • Number of projects
+ • Average monthly hours
+ • Time spent at the company
+ • Whether they have had a work accident
+ • Whether they have had a promotion in the last 5 years
+ • Department
+ • Salary
+ • Whether the employee has left
 
 ## Tools required: RStudio
+Thank you.
