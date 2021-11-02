@@ -4,8 +4,8 @@ Idustry: Human Resourse Management
 A company has been in industry since a long time. Their business had been increasing quite well over past, however in recent years, there has been a slowdown in terms of growth because their best and most experienced employees leaving prematurely. The VP of the firm is not very happy with the company’s best and most experienced employees leaving prematurely. The VP of the firm has employed you to find out insights in the company employee data and find out an answer as to know why best and most experienced employees are leaving prematurely.
 ## Solution: 
 As a first step the VP planned to know the useful insights out of the employee data available. Using R, he also wanted his team members to give him a forecast model to predict which employees could be leaving the company, as well as answer to why their best and most experienced employees are leaving  prematurely.  This  will  help  him  plan  his  next  steps  to  avoid  the  churn  out.  He  wanted  a script that would contain the following:
-           • A visualization and distribution (of all the employee relative fields)
-           • Forecast using different machine learning models
+           • A visualization and distribution (of all the employee relative fields)\\
+           • Forecast using different machine learning models\\
            • Comparison among different machine learning models and cross validating through them test and train set
            • Find out why best and most experienced employees are leaving prematurely.•Give a final prediction model to forecast
            • Give a final predictionmodel to forecast
