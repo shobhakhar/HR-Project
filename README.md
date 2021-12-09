@@ -1,5 +1,5 @@
 # Human-Resource-Management-using-R
-Idustry: Human Resource Management
+Industry: Human Resource Management
 ## Problem Statement: 
 A company has been in industry since a long time. Their business had been increasing quite well over past, however in recent years, there has been a slowdown in terms of growth because their best and most experienced employees leaving prematurely. The VP of the firm is not very happy with the company’s best and most experienced employees leaving prematurely. The VP of the firm has employed you to find out insights in the company employee data and find out an answer as to know why best and most experienced employees are leaving prematurely.
 ## Solution: 
@@ -20,8 +20,8 @@ As a first step the VP planned to know the useful insights out of the employee d
        leaving from each department
 • Build a classification model to forecast what are the attributes of people who leave the
 company.
-     o Build models using Decision Tree, Random Forest, Naïve Bayes and SVM
-       techniques and find out the most accurate one.
+     o Build models using Decision Tree, Random Forest, Gradiant Boosting Bayes and SVM
+       techniques and find out the most accurate as well as relaiable one.
 ## Data To be used:
 The dataset being used is HR_data. It consists of dimensions like:
  • Employee satisfaction level
